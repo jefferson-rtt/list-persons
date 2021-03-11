@@ -34,4 +34,4 @@ npm build
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-#### made with ❤️ by [Jefferson Nunes](https://wwww.linkedin.com/in/jefferson-nunes/).
+#### made with ❤️ by [Jefferson Nunes](https://www.linkedin.com/in/jefferson-nunes/).
